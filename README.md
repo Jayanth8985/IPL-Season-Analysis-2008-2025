@@ -5,6 +5,7 @@ End-to-end data analysis of all IPL seasons from 2008 to 2025
 using Microsoft Excel covering 18 seasons of match data.
 
 ⚠️ **Important Note**
+
 After downloading the Excel file from GitHub, please click **"Enable Editing"** at the top of Excel to interact with slicers, pivot tables, and dashboard visuals.
 
 ## 🔍 Analysis Performed
